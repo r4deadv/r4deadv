@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @r4deadv Rade
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Rade @r4deadv
+- 👀 I’m interested in ... outdoor sports
 - 🌱 I’m currently learning ... web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mihovilovic.rade@gmail.com

@@ -41,5 +41,5 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=r4deadv&theme=dark&background=000000)](https://git.io/streak-stats)
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4deadv&show_icons=true&theme=radical&include_all_commits=true)
+![Rade's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4deadv&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4deadv&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

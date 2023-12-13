@@ -16,7 +16,7 @@
 </div>
 
 ### :man_technologist: About Me :
-- :wave: I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Serbia <img src="https://1.bp.blogspot.com/-NdXxo4Yhtmc/YEKDrOTaz_I/AAAAAAAA408/o-Io3-QcrhwQY7whLxlJJtwLMKW6qQCggCLcBGAsYHQ/s0/Flag_of_Serbia.gif" width="20"> .
+- :wave: I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Serbia <img src="https://1.bp.blogspot.com/-NdXxo4Yhtmc/YEKDrOTaz_I/AAAAAAAA408/o-Io3-QcrhwQY7whLxlJJtwLMKW6qQCggCLcBGAsYHQ/s0/Flag_of_Serbia.gif" width="20"> based in Berlin.
 
 - :book: I’m currently learning React <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="20" height="20"/>&nbsp; and  Redux <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="20" height="20"/>&nbsp;
 
